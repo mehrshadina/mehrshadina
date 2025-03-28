@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable so
 
 ## 💻 Tech Stack
 - **Programming Languages**: Python, C++, C#, C, PHP, Dart
-- **Frameworks**: Django, ASP.NET Core, Flutter (learning in progress)
+- **Frameworks**: Django, ASP.NET Core, Flutter
 - **Machine Learning**: TensorFlow, PyTorch
 - **Operating Systems**: Linux (Advanced), Windows
 
