@@ -10,9 +10,9 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable so
 - **Operating Systems**: Linux (Advanced), Windows
 
 ## 📫 Let's Connect!
-- **Email**: [Your Email](mailto:mehrshadinaa@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mehrshadhaddadi)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/mehrshadina)
+- **Email**: [Mehrshadinaa@gmail.com](mailto:mehrshadinaa@gmail.com)
+- **LinkedIn**: [Mehrshad hadadi](https://www.linkedin.com/in/mehrshadhadadi)
+- **Twitter**: [@mehrshadina](https://twitter.com/mehrshadina)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or opportunities.
 
