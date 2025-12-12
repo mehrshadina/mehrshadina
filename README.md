@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a passion for creating efficient and scalable so
 
 ## 📫 Let's Connect!
 - **Email**: [Mehrshadinaa@gmail.com](mailto:mehrshadinaa@gmail.com)
-- **LinkedIn**: [Mehrshad hadadi](https://www.linkedin.com/in/mehrshadhadadi)
+- **LinkedIn**: [Mehrshad hadadi](https://www.linkedin.com/in/mehrshad-hadadi-690371183)
 - **Twitter**: [@mehrshadina](https://twitter.com/mehrshadina)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out if you have any questions or opportunities.
