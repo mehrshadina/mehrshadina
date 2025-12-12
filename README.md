@@ -4,7 +4,7 @@
 I'm a Full Stack Developer with a passion for creating efficient and scalable solutions. With a background in medical engineering and a strong interest in electronics, I bring a unique perspective to software development. I am currently working as a support specialist at ParsPack, focusing on hosting and server rentals.
 
 ## 💻 Tech Stack
-- **Programming Languages**: Python, C++, C#, C, PHP, Dart
+- **Programming Languages**: Python, C++, C#, C, PHP, Dart, Java
 - **Frameworks**: Django, ASP.NET Core, Flutter, Android Programming(android studio)
 - **Machine Learning**: TensorFlow, PyTorch
 - **Operating Systems**: Linux (Advanced), Windows
